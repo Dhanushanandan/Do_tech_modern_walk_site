@@ -95,21 +95,6 @@ setFlashSale(all.slice(0, 4));
 </div>
 ```
 
----
-
-## 🌐 Deployment
-
-Use commands like:
-
-```bash
-npm run build
-npm run preview
-```
-
-Then deploy the `dist/` or `build/` output via Vercel, Netlify, or GitHub Pages.
-
----
-
 ## 📄 API Endpoints
 
 * `/category/men's clothing`
