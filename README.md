@@ -1,7 +1,9 @@
 ```markdown
 # 🛍️ Modern Walk – Fashion E-Commerce Site
 
-A sleek, responsive e-commerce single-page application (SPA) built with **React**, **Tailwind CSS**, and **React Router**, featuring a flash sale and category-based browsing of men's and women's clothing. Powered by [FakeStoreAPI](https://fakestoreapi.com/) for faux product data.
+A sleek, responsive e-commerce single-page application (SPA) built with **React**, **Tailwind CSS**,
+and **React Router**, featuring a flash sale and category-based browsing of men's and women's
+clothing. Powered by [FakeStoreAPI](https://fakestoreapi.com/) for faux product data.
 
 ---
 
