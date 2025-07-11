@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🛍️ Modern Walk – Fashion E-Commerce Site
 
