@@ -126,30 +126,4 @@ Then deploy the `dist/` or `build/` output via Vercel, Netlify, or GitHub Pages.
 
 ---
 
-## 📬 Contributing
-
-Feel free to open issues or submit pull requests. Please follow the existing code style and include meaningful commit messages.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Modern Walk – Crafted with React, Tailwind, and ❤️**
-
-```
-
----
-
-### ✅ What You Should Do Next
-
-1. Save this content to `README.md` in your project root.
-2. Update placeholders like repo URL if needed.
-3. Add a `LICENSE` file for MIT, and consider adding screenshots or GIFs to enhance the visual appeal.
-
-Let me know if you want help generating a `.gitignore`, `LICENSE`, or setup for CI/CD!
-::contentReference[oaicite:0]{index=0}
 ```
