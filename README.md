@@ -1,5 +1,3 @@
-Here’s a polished and professional `README.md` tailored specifically to your repository:
-
 ---
 
 ```markdown
@@ -23,9 +21,7 @@ A sleek, responsive e-commerce single-page application (SPA) built with **React*
 
 ## 📁 Repository Structure
 
-```
-
-modern\_walk\_site/
+```modern\_walk\_site/
 ├── public/
 │   └── index.html
 ├── src/
